@@ -68,6 +68,6 @@ def add_characters
 
 
 
-   # After your code, the following line will return the altered ha    
+   # After your code, the following line will return the altered ha
    epic_tragedy
 end
